@@ -1,4 +1,4 @@
-# pinpad
+# PinPad
 
 Pinpad exercise for Acid Tango
 
